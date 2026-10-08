@@ -1,0 +1,16 @@
+# Packaged builds
+*.love
+build/
+dist/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Leftovers from the console version, if you ever run it in this folder
+bankcasino.sav
+bankcasino.sav.tmp
